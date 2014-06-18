@@ -49,7 +49,6 @@ int main(int argc, char *argv[]) {
     }
 	
 	return 0;
-	
 }
 
 
@@ -78,5 +77,4 @@ bool unit_test(int expected_result, int actual_result) {
         return true;
     }
     else return false;
-    
 }
